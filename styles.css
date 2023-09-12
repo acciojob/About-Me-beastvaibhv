@@ -1,1 +1,47 @@
+.container{
+	display:flex;
+	
+
+}
+.profile{
+	display:flex;
+	
+}
+
+.data{
+	padding-left:30px;
+}
+.skill{
+	display:flex;
+	justify-content:space-between
+}
+.graph{
+	display:flex
+}
+
+.segment1 {
+	width: 350px;
+    height: 10px;
+    
+    border-top-left-radius: 10px;
+    overflow: hidden;
+    
+    background-color: blue;
+}
+
+.segment2 {
+	
+    width: 50px; /* Adjust the percentage value for the second segment */
+    height: 10px;
+    
+    border-top-right-radius: 10px;
+    overflow: hidden;
+    
+    background-color: grey;
+}
+.right-container{
+	padding-left:30px;
+}
+
+	
 
